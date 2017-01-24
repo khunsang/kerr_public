@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.4)  2 JAN 2017 10:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.4)  24 JAN 2017 18:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1303,12 +1303,12 @@ Package xcolor Warning: Incompatible color definition on input line 285.
 
 Package xcolor Warning: Incompatible color definition on input line 292.
 
-<leaver_example_chi0p68_l2m1.pdf, id=118, 599.88889pt x 473.22928pt>
+<leaver_example_chi0p68_l2m1.pdf, id=114, 599.88889pt x 473.22928pt>
 File: leaver_example_chi0p68_l2m1.pdf Graphic file (type pdf)
  <use leaver_example_chi0p68_l2m1.pdf>
 Package pdftex.def Info: leaver_example_chi0p68_l2m1.pdf used on input line 399.
 (pdftex.def)             Requested size: 252.44751pt x 199.14487pt.
- <leaver_example_chi0p68_l2m1_brute_r.pdf, id=119, 572.2017pt x 473.22928pt>
+ <leaver_example_chi0p68_l2m1_brute_r.pdf, id=115, 572.2017pt x 473.22928pt>
 File: leaver_example_chi0p68_l2m1_brute_r.pdf Graphic file (type pdf)
  <use leaver_example_chi0p68_l2m1_brute_r.pdf>
 Package pdftex.def Info: leaver_example_chi0p68_l2m1_brute_r.pdf used on input line 399.
@@ -1327,7 +1327,7 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 399.
- <fits_w.pdf, id=121, 547.04375pt x 504.88625pt>
+ <fits_w.pdf, id=117, 547.04375pt x 504.88625pt>
 File: fits_w.pdf Graphic file (type pdf)
  <use fits_w.pdf>
 Package pdftex.def Info: fits_w.pdf used on input line 413.
@@ -1349,7 +1349,7 @@ Package xcolor Warning: Incompatible color definition on input line 436.
 
 Package xcolor Warning: Incompatible color definition on input line 438.
 
-[3] <test_python_fit_equations_l3m2n0.pdf, id=146, 415.5525pt x 224.037pt>
+[3] <test_python_fit_equations_l3m2n0.pdf, id=141, 415.5525pt x 224.037pt>
 File: test_python_fit_equations_l3m2n0.pdf Graphic file (type pdf)
  <use test_python_fit_equations_l3m2n0.pdf>
 Package pdftex.def Info: test_python_fit_equations_l3m2n0.pdf used on input line 457.
@@ -1430,7 +1430,7 @@ Package xcolor Warning: Incompatible color definition on input line 585.
 
 Package xcolor Warning: Incompatible color definition on input line 585.
 
-(./slm_norm_fit_eqns.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l2m2.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l2m2.tex) [6] (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l2m1.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l2m1.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l3m3.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l3m3.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l3m2.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l3m2.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l4m4.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l4m4.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l4m3.tex) (/Users/book/KOALA/kerr_dev/workflows/modelrd/docs/latex/010117/l4m3.tex) [7] (./mmrd.bbl
+(./slm_norm_fit_eqns.tex) (./mmrd.bbl
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1439,31 +1439,37 @@ Underfull \hbox (badness 1072) in paragraph at lines 4--7
  []\OT1/txr/m/n/9 L. Lon-don, D. Shoe-maker, and J. Healy, ``Mod-el-ing ring-
  []
 
-) [8]
+
+Overfull \vbox (19.76524pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (19.76524pt too high) has occurred while \output is active []
+
+ [6]) [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
  (./mmrd.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
 Package rerunfilecheck Info: File `mmrd.out' has not changed.
-(rerunfilecheck)             Checksum: 4838DBA362AE1722A6183EF8C338DBA0;670.
+(rerunfilecheck)             Checksum: F3181B4C36E48F82DC6E59D2A1AF71ED;569.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 32448 strings out of 493013
- 757746 string characters out of 6133344
- 974187 words of memory out of 5000000
- 35214 multiletter control sequences out of 15000+600000
+ 32381 strings out of 493013
+ 755486 string characters out of 6133344
+ 972606 words of memory out of 5000000
+ 35197 multiletter control sequences out of 15000+600000
  54938 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,13n,96p,737b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on mmrd.pdf (8 pages, 382912 bytes).
+Output written on mmrd.pdf (7 pages, 377736 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
- 354 compressed objects within 4 object streams
- 119 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 428 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
