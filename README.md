@@ -40,6 +40,12 @@ untiless_qnm_frequency = cwfit[l, m, n](jf)
 
  The result is untiless_qnm_frequency = 1.4398601232446264+0.010494215308402903j
  
+#### A note on the extremal kerr limit $j_f \rightarrow 0$
+The above example has been chosen to demonstrate that at near the extremal kerr limit, many QNM frequencies aspmtote to m/2. In the case of (l,m)=(3,3), the extremal frequency is 1.5 (M=c=1). While the tabulated evaluations of leaver's method have not been carried out *exactly* at the extremal limit, the fits enforce this behavior and evaluations of Leaver's method very near the kerr limit have been performed as a check.
+
+## A few working notes are located in
+ * kerr_public/notes/ns/mmrd.pdf
+ 
 ## Useful ipython notebooks
 * Test Spheroidal Harmonic implementation
  kerr_public/notes/ns/notebooks/test_slm.ipynb
