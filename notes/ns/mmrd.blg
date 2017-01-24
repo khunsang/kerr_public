@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: mmrd.aux
+The style file: ieeetr.bst
+Database file #1: mmrdNotes.bib
+Database file #2: mmrd.bib.bib
+Warning--empty journal in Zimmerman:2015rua
+You've used 8 entries,
+            1876 wiz_defined-function locations,
+            537 strings with 5034 characters,
+and the built_in function-call counts, 2407 in all, are:
+= -- 246
+> -- 99
+< -- 0
++ -- 36
+- -- 28
+* -- 148
+:= -- 329
+add.period$ -- 9
+call.type$ -- 8
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 152
+empty$ -- 192
+format.name$ -- 28
+if$ -- 608
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 28
+num.names$ -- 8
+pop$ -- 21
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 130
+stack$ -- 0
+substring$ -- 104
+swap$ -- 87
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 17
+width$ -- 9
+write$ -- 85
+(There was 1 warning)
