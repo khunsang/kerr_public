@@ -44,12 +44,12 @@ untiless_qnm_frequency = cwfit[l, m, n](jf)
 The above example has been chosen to demonstrate that at near the extremal kerr limit, many QNM frequencies aspmtote to m/2. In the case of (l,m)=(3,3), the extremal frequency is 1.5 (M=c=1). While the tabulated evaluations of leaver's method have not been carried out *exactly* at the extremal limit, the fits enforce this behavior and evaluations of Leaver's method very near the kerr limit have been performed as a check.
 
 ## A few working notes are located in
- * kerr_public/notes/ns/mmrd.pdf
+ * (kerr_public/notes/ns/mmrd.pdf)[https://github.com/llondon6/kerr_public/blob/master/notes/ns/mmrd.pdf]
  
 ## Useful ipython notebooks
 * Test Spheroidal Harmonic implementation
- kerr_public/notes/ns/notebooks/test_slm.ipynb
+ (kerr_public/notes/ns/notebooks/test_slm.ipynb)[https://github.com/llondon6/kerr_public/blob/master/notes/ns/notebooks/test_slm.ipynb]
 * Query how well the QNM fits satisfy Leaver's equations
- kerr_public/notes/ns/notebooks/test_python_fit_equations.ipynb
+ (kerr_public/notes/ns/notebooks/test_python_fit_equations.ipynb)[https://github.com/llondon6/kerr_public/blob/master/notes/ns/notebooks/test_python_fit_equations.ipynb]
 * Explore the QNM solution space using Leaver's continued fraction method
- kerr_public/examples/leaver_example.ipynb
+ (kerr_public/examples/leaver_example.ipynb)[https://github.com/llondon6/kerr_public/blob/master/examples/leaver_example.ipynb]
