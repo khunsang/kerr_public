@@ -1,4 +1,4 @@
-# kerr_public
+# Kerr (Public)
 Public version of my kerr repository
 
 ## How to add to your system's PYTHONPATH
