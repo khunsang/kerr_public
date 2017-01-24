@@ -18,8 +18,6 @@ source ~/.bash_profile
 ```
 
 ## Quick Examples
----
-
 ### Get Kerr QNM Frequencies and Damping times using tabulated results of Leaver's Method
 ```python
 from kerr import leaver
@@ -43,7 +41,6 @@ untiless_qnm_frequency = cwfit[l, m, n](jf)
  The result is untiless_qnm_frequency = 1.4398601232446264+0.010494215308402903j
  
 ## Useful ipython notebooks
----
 * Test Spheroidal Harmonic implementation
  kerr_public/notes/ns/notebooks/test_slm.ipynb
 * Query how well the QNM fits satisfy Leaver's equations
