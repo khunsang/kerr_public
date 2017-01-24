@@ -1,0 +1,5 @@
+.svn
+*.m~
+*.DS_Store*
+.ipynb_checkpoints
+*.pyc
