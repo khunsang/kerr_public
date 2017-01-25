@@ -1,12 +1,13 @@
 # Kerr
-Low Level Tools for Black Hole Quasi-normal Modes
-  * Kerr QNM frequencies
-  * Kerr separation constants
-  * Spheroidal Harmonics
-  * Leaver's continued fraction method
-  * Solution space mapping
-  * Fit equations for QNM excitations
-  * Fit equations for frequencies and separation constants
+
+##Low Level Tools for Black Hole Quasi-normal Modes
+ * Kerr QNM frequencies
+ * Kerr separation constants
+ * Spheroidal Harmonics
+ * Leaver's continued fraction method
+ * Solution space mapping
+ * Fit equations for QNM excitations
+ * Fit equations for frequencies and separation constants
 
 ## How to add to your system's PYTHONPATH
 If you have cloned the repository to
