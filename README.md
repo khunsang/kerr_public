@@ -31,7 +31,7 @@ source ~/.bash_profile
 from kerr import leaver
 l,m,n = 3,3,0
 jf = 0.99
-# NOTE that jf<0 accesses teh retrograde frequencies 
+# NOTE that jf<0 accesses the retrograde frequencies 
 untiless_qnm_frequency, separation_constant = leaver( jf, l, m, n )
 ```
 
