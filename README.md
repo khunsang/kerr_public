@@ -1,7 +1,5 @@
 # Kerr
-
-* Public version of my kerr repository
-* Low Level Tools for Black Hole Quasi-normal Modes
+Low Level Tools for Black Hole Quasi-normal Modes
   * Kerr QNM frequencies
   * Kerr separation constants
   * Spheroidal Harmonics
