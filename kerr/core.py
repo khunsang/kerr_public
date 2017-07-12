@@ -1,7 +1,7 @@
 
 # Import underlying basic modules
 from kerr.basics import *
-import dill
+# import dill
 
 '''
 Method to load tabulated QNM data, interpolate and then output for input final spin
