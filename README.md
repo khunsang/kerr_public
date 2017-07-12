@@ -35,7 +35,7 @@ jf = 0.99
 untiless_qnm_frequency, separation_constant = leaver( jf, l, m, n )
 ```
 
- The result is untiless_qnm_frequency = 1.4397416351127201-0.010531060217508836j
+ The result is untiless_qnm_frequency = 1.3230831096974336-0.029402669080879983j
 
 ### Get Kerr QNM Frequencies and Damping times using fitting formulas
 ```python
@@ -46,7 +46,7 @@ jf = 0.99
 untiless_qnm_frequency = cwfit[l, m, n](jf)
 ```
 
- The result is untiless_qnm_frequency = 1.4398601232446264+0.010494215308402903j
+ The result is untiless_qnm_frequency = 1.32307097094+0.0294057641931j
  
 #### A note on the extremal kerr limit (jf -> 0)
 The above example has been chosen to demonstrate that at near the extremal kerr limit, many QNM frequencies aspmtote to m/2. In the case of (l,m)=(3,3), the extremal frequency is 1.5 (M=c=1). While the tabulated evaluations of leaver's method have not been carried out *exactly* at the extremal limit, the fits enforce this behavior and evaluations of Leaver's method very near the kerr limit have been performed as a check.
