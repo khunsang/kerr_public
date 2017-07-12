@@ -5,7 +5,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 #
-setup(name='kerr',
+setup(name='kerr_public',
       version='1.0',
       description='Python Utilities for BH QNMs',
       author='Lionel London',
