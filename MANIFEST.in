@@ -1,4 +1,4 @@
-recursive-include examples/*
-recursive-include bin/*
-recursive-include gallery/*
-recursive-include notes/*
+recursive-include examples *
+recursive-include bin *
+recursive-include gallery *
+recursive-include notes *
